@@ -1,1 +1,1 @@
-solutions for 0x09-python-everything_is_object project
+solutions for Alx-higher_level_programming projects
